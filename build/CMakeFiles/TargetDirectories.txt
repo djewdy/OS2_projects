@@ -1,0 +1,3 @@
+/home/joudi/OS2_project/build/CMakeFiles/MyExecutableproject.dir
+/home/joudi/OS2_project/build/CMakeFiles/edit_cache.dir
+/home/joudi/OS2_project/build/CMakeFiles/rebuild_cache.dir
